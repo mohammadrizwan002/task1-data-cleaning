@@ -1,4 +1,4 @@
-Task 1: Data Cleaning & Preprocessing - Titanic Dataset
+Task 1: Data Cleaning & Preprocessing - Titanic Dataset (ELEVATE LABS AIML INTERNSHIP MAY-2025)
 
 This task is part of the AI & ML Internship Program. The objective was to clean and preprocess the Titanic dataset to make it ready for Machine Learning models.
 
